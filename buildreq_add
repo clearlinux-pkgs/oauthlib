@@ -1,0 +1,12 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+blinker
+pyjwt-python
+python-mock
+pycrypto-python
+unittest2-python
+nose-python
+traceback2-python
+six-python
+six
+linecache2-python
