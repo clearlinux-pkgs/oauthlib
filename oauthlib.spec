@@ -4,7 +4,7 @@
 #
 Name     : oauthlib
 Version  : 1.0.3
-Release  : 18
+Release  : 19
 URL      : https://pypi.python.org/packages/source/o/oauthlib/oauthlib-1.0.3.tar.gz
 Source0  : https://pypi.python.org/packages/source/o/oauthlib/oauthlib-1.0.3.tar.gz
 Summary  : A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
