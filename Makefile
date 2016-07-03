@@ -1,4 +1,5 @@
 PKG_NAME := oauthlib
-URL := https://pypi.python.org/packages/source/o/oauthlib/oauthlib-1.0.3.tar.gz
+URL := http://pypi.debian.net/oauthlib/oauthlib-1.1.2.tar.gz
+ARCHIVES :=
 
 include ../common/Makefile.common
