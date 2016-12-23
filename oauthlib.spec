@@ -4,7 +4,7 @@
 #
 Name     : oauthlib
 Version  : 2.0.1
-Release  : 26
+Release  : 27
 URL      : http://pypi.debian.net/oauthlib/oauthlib-2.0.1.tar.gz
 Source0  : http://pypi.debian.net/oauthlib/oauthlib-2.0.1.tar.gz
 Summary  : A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
