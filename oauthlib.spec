@@ -4,9 +4,9 @@
 #
 Name     : oauthlib
 Version  : 2.1.0
-Release  : 33
-URL      : https://files.pythonhosted.org/packages/df/5f/3f4aae7b28db87ddef18afed3b71921e531ca288dc604eb981e9ec9f8853/oauthlib-2.1.0.tar.gz
-Source0  : https://files.pythonhosted.org/packages/df/5f/3f4aae7b28db87ddef18afed3b71921e531ca288dc604eb981e9ec9f8853/oauthlib-2.1.0.tar.gz
+Release  : 34
+URL      : http://pypi.debian.net/oauthlib/oauthlib-2.1.0.tar.gz
+Source0  : http://pypi.debian.net/oauthlib/oauthlib-2.1.0.tar.gz
 Summary  : A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 Group    : Development/Tools
 License  : BSD-3-Clause
@@ -74,7 +74,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1532243635
+export SOURCE_DATE_EPOCH=1532294255
 python3 setup.py build -b py3
 
 %check
