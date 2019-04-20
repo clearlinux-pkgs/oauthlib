@@ -4,7 +4,7 @@
 #
 Name     : oauthlib
 Version  : 3.0.1
-Release  : 40
+Release  : 41
 URL      : https://files.pythonhosted.org/packages/ec/90/882f43232719f2ebfbdbe8b7c57fc9642a25b3df30cb70a3701ea22622de/oauthlib-3.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ec/90/882f43232719f2ebfbdbe8b7c57fc9642a25b3df30cb70a3701ea22622de/oauthlib-3.0.1.tar.gz
 Summary  : A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
