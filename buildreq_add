@@ -3,7 +3,6 @@
 blinker
 pyjwt-python
 python-mock
-pycrypto-python
 unittest2-python
 nose-python
 traceback2-python

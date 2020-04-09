@@ -4,7 +4,7 @@
 #
 Name     : oauthlib
 Version  : 3.1.0
-Release  : 48
+Release  : 49
 URL      : https://files.pythonhosted.org/packages/fc/c7/829c73c64d3749da7811c06319458e47f3461944da9d98bb4df1cb1598c2/oauthlib-3.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fc/c7/829c73c64d3749da7811c06319458e47f3461944da9d98bb4df1cb1598c2/oauthlib-3.1.0.tar.gz
 Summary  : A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
@@ -20,7 +20,6 @@ BuildRequires : buildreq-distutils3
 BuildRequires : cryptography
 BuildRequires : linecache2-python
 BuildRequires : nose-python
-BuildRequires : pycrypto-python
 BuildRequires : pyjwt-python
 BuildRequires : python-mock
 BuildRequires : six
@@ -69,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1586393261
+export SOURCE_DATE_EPOCH=1586393392
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
